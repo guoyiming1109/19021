@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
-        int len = 123456;
-        int max = 100;
+        String len = 123456;
+        String max = 100;
     }
 }
